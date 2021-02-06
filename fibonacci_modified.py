@@ -3,6 +3,7 @@ from typing import List
 
 def fibonacci_modified(t1: int, t2: int, n: int) -> int:
     """
+    DYNAMIC PROGRAMMING
     https://www.hackerrank.com/challenges/fibonacci-modified/problem
     """
     table: List[int] = [0] * n

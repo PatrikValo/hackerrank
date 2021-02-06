@@ -1,5 +1,8 @@
 def count_array(n: int, k: int, x: int) -> int:
-    # https://www.hackerrank.com/challenges/construct-the-array/problem
+    """
+    DYNAMIC PROGRAMMING
+    https://www.hackerrank.com/challenges/construct-the-array/problem
+    """
     fst: int = 1
     snd: int = 0
 
